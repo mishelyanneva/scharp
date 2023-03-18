@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\bin\Debug\Applicationcsharp.exe.config
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\bin\Debug\Applicationcsharp.exe
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\bin\Debug\Applicationcsharp.pdb
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.Form1.resources
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.Properties.Resources.resources
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.exe
+C:\Users\User\Desktop\c documents\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.pdb
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\bin\Debug\Applicationcsharp.exe.config
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\bin\Debug\Applicationcsharp.exe
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\bin\Debug\Applicationcsharp.pdb
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.Form1.resources
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.Properties.Resources.resources
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.exe
+C:\Users\User\Desktop\Applicationcsharp\Applicationcsharp\obj\Debug\Applicationcsharp.pdb
